@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Insert title here 연습중</title>
 </head>
 <body>
 	browser 변수 값 설정
